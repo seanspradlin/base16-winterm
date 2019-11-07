@@ -1,0 +1,21 @@
+{
+    "background": "#eeeeee",
+    "black": "#eeeeee",
+    "blue": "#d75f00",
+    "brightBlack": "#5f8700",
+    "brightBlue": "#0087af",
+    "brightCyan": "#005f87",
+    "brightGreen": "#af0000",
+    "brightPurple": "#005f87",
+    "brightRed": "#d70000",
+    "brightWhite": "#444444",
+    "brightYellow": "#008700",
+    "cyan": "#d75f00",
+    "foreground": "#878787",
+    "green": "#8700af",
+    "name": "base16-papercolor-light",
+    "purple": "#005faf",
+    "red": "#bcbcbc",
+    "white": "#878787",
+    "yellow": "#d70087"
+}

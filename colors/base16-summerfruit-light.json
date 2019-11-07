@@ -1,0 +1,21 @@
+{
+    "background": "#ffffff",
+    "black": "#ffffff",
+    "blue": "#3777e6",
+    "brightBlack": "#b0b0b0",
+    "brightBlue": "#000000",
+    "brightCyan": "#cc6633",
+    "brightGreen": "#e0e0e0",
+    "brightPurple": "#151515",
+    "brightRed": "#fd8900",
+    "brightWhite": "#202020",
+    "brightYellow": "#d0d0d0",
+    "cyan": "#1faaaa",
+    "foreground": "#101010",
+    "green": "#00c918",
+    "name": "base16-summerfruit-light",
+    "purple": "#ad00a1",
+    "red": "#ff0086",
+    "white": "#101010",
+    "yellow": "#aba800"
+}

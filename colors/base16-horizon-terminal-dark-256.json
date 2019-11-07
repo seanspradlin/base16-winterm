@@ -1,0 +1,21 @@
+{
+    "background": "#1c1e26",
+    "black": "#1c1e26",
+    "blue": "#26bbd9",
+    "brightBlack": "#6f6f70",
+    "brightBlue": "#26bbd9",
+    "brightCyan": "#59e1e3",
+    "brightGreen": "#29d398",
+    "brightPurple": "#ee64ac",
+    "brightRed": "#e95678",
+    "brightWhite": "#e3e6ee",
+    "brightYellow": "#fac29a",
+    "cyan": "#59e1e3",
+    "foreground": "#cbced0",
+    "green": "#29d398",
+    "name": "base16-horizon-terminal-dark-256",
+    "purple": "#ee64ac",
+    "red": "#e95678",
+    "white": "#cbced0",
+    "yellow": "#fac29a"
+}

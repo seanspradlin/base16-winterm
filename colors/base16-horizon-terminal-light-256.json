@@ -1,0 +1,21 @@
+{
+    "background": "#fdf0ed",
+    "black": "#fdf0ed",
+    "blue": "#26bbd9",
+    "brightBlack": "#bdb3b1",
+    "brightBlue": "#26bbd9",
+    "brightCyan": "#59e1e3",
+    "brightGreen": "#29d398",
+    "brightPurple": "#ee64ac",
+    "brightRed": "#e95678",
+    "brightWhite": "#201c1d",
+    "brightYellow": "#fadad1",
+    "cyan": "#59e1e3",
+    "foreground": "#403c3d",
+    "green": "#29d398",
+    "name": "base16-horizon-terminal-light-256",
+    "purple": "#ee64ac",
+    "red": "#e95678",
+    "white": "#403c3d",
+    "yellow": "#fadad1"
+}

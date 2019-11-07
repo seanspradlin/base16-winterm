@@ -1,0 +1,21 @@
+{
+    "background": "#16130f",
+    "black": "#16130f",
+    "blue": "#6d5782",
+    "brightBlack": "#5a5047",
+    "brightBlue": "#8a8075",
+    "brightCyan": "#825757",
+    "brightGreen": "#2c2620",
+    "brightPurple": "#beb6ae",
+    "brightRed": "#828257",
+    "brightWhite": "#dbd6d1",
+    "brightYellow": "#433b32",
+    "cyan": "#576d82",
+    "foreground": "#a39a90",
+    "green": "#57826d",
+    "name": "base16-embers",
+    "purple": "#82576d",
+    "red": "#826d57",
+    "white": "#a39a90",
+    "yellow": "#6d8257"
+}

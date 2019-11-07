@@ -1,0 +1,21 @@
+{
+    "background": "#fbf1f2",
+    "black": "#fbf1f2",
+    "blue": "#7297b9",
+    "brightBlack": "#bfb9c6",
+    "brightBlue": "#a59daf",
+    "brightCyan": "#baa58c",
+    "brightGreen": "#f2f1f4",
+    "brightPurple": "#72677e",
+    "brightRed": "#ebb790",
+    "brightWhite": "#585062",
+    "brightYellow": "#d8d5dd",
+    "cyan": "#69a9a7",
+    "foreground": "#8b8198",
+    "green": "#a3b367",
+    "name": "base16-cupcake",
+    "purple": "#bb99b4",
+    "red": "#d57e85",
+    "white": "#8b8198",
+    "yellow": "#dcb16c"
+}

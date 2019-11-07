@@ -1,0 +1,21 @@
+{
+    "background": "#031a16",
+    "black": "#031a16",
+    "blue": "#96883e",
+    "brightBlack": "#2b685e",
+    "brightBlue": "#5f9c92",
+    "brightCyan": "#3e965b",
+    "brightGreen": "#0b342d",
+    "brightPurple": "#a7cec8",
+    "brightRed": "#3e7996",
+    "brightWhite": "#d2e7e4",
+    "brightYellow": "#184e45",
+    "cyan": "#963e4c",
+    "foreground": "#81b5ac",
+    "green": "#883e96",
+    "name": "base16-apathy",
+    "purple": "#4c963e",
+    "red": "#3e9688",
+    "white": "#81b5ac",
+    "yellow": "#3e4c96"
+}
