@@ -1,4 +1,5 @@
 {
+    "name": "Base16 London Tube 256",
     "background": "#231f20",
     "black": "#231f20",
     "blue": "#009ddc",
@@ -13,7 +14,6 @@
     "cyan": "#85cebc",
     "foreground": "#d9d8d8",
     "green": "#00853e",
-    "name": "base16-tube-256",
     "purple": "#98005d",
     "red": "#ee2e24",
     "white": "#d9d8d8",

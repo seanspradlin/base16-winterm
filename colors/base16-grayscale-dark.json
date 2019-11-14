@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Grayscale Dark",
     "background": "#101010",
     "black": "#101010",
     "blue": "#686868",
@@ -13,7 +14,6 @@
     "cyan": "#868686",
     "foreground": "#b9b9b9",
     "green": "#8e8e8e",
-    "name": "base16-grayscale-dark",
     "purple": "#747474",
     "red": "#7c7c7c",
     "white": "#b9b9b9",

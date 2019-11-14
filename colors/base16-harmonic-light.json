@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Harmonic16 Light",
     "background": "#f7f9fb",
     "black": "#f7f9fb",
     "blue": "#8b56bf",
@@ -13,7 +14,6 @@
     "cyan": "#568bbf",
     "foreground": "#405c79",
     "green": "#56bf8b",
-    "name": "base16-harmonic-light",
     "purple": "#bf568b",
     "red": "#bf8b56",
     "white": "#405c79",

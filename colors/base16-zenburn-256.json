@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Zenburn 256",
     "background": "#383838",
     "black": "#383838",
     "blue": "#7cb8bb",
@@ -13,7 +14,6 @@
     "cyan": "#93e0e3",
     "foreground": "#dcdccc",
     "green": "#5f7f5f",
-    "name": "base16-zenburn-256",
     "purple": "#dc8cc3",
     "red": "#dca3a3",
     "white": "#dcdccc",

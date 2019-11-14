@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Ocean",
     "background": "#2b303b",
     "black": "#2b303b",
     "blue": "#8fa1b3",
@@ -13,7 +14,6 @@
     "cyan": "#96b5b4",
     "foreground": "#c0c5ce",
     "green": "#a3be8c",
-    "name": "base16-ocean",
     "purple": "#b48ead",
     "red": "#bf616a",
     "white": "#c0c5ce",

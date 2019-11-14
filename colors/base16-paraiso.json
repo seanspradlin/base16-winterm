@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Paraiso",
     "background": "#2f1e2e",
     "black": "#2f1e2e",
     "blue": "#06b6ef",
@@ -13,7 +14,6 @@
     "cyan": "#5bc4bf",
     "foreground": "#a39e9b",
     "green": "#48b685",
-    "name": "base16-paraiso",
     "purple": "#815ba4",
     "red": "#ef6155",
     "white": "#a39e9b",

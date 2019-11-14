@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Helios",
     "background": "#1d2021",
     "black": "#1d2021",
     "blue": "#1e8bac",
@@ -13,7 +14,6 @@
     "cyan": "#1ba595",
     "foreground": "#d5d5d5",
     "green": "#88b92d",
-    "name": "base16-helios",
     "purple": "#be4264",
     "red": "#d72638",
     "white": "#d5d5d5",

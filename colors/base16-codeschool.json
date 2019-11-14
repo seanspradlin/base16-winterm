@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Codeschool",
     "background": "#232c31",
     "black": "#232c31",
     "blue": "#484d79",
@@ -13,7 +14,6 @@
     "cyan": "#b02f30",
     "foreground": "#9ea7a6",
     "green": "#237986",
-    "name": "base16-codeschool",
     "purple": "#c59820",
     "red": "#2a5491",
     "white": "#9ea7a6",

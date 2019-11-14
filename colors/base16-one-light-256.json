@@ -1,4 +1,5 @@
 {
+    "name": "Base16 One Light 256",
     "background": "#fafafa",
     "black": "#fafafa",
     "blue": "#4078f2",
@@ -13,7 +14,6 @@
     "cyan": "#0184bc",
     "foreground": "#383a42",
     "green": "#50a14f",
-    "name": "base16-one-light-256",
     "purple": "#a626a4",
     "red": "#ca1243",
     "white": "#383a42",

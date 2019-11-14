@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Fruit Soda",
     "background": "#f1ecf1",
     "black": "#f1ecf1",
     "blue": "#2931df",
@@ -13,7 +14,6 @@
     "cyan": "#0f9cfd",
     "foreground": "#515151",
     "green": "#47f74c",
-    "name": "base16-fruit-soda",
     "purple": "#611fce",
     "red": "#fe3e31",
     "white": "#515151",

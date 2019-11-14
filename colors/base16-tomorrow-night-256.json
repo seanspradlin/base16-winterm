@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Tomorrow Night 256",
     "background": "#1d1f21",
     "black": "#1d1f21",
     "blue": "#81a2be",
@@ -13,7 +14,6 @@
     "cyan": "#8abeb7",
     "foreground": "#c5c8c6",
     "green": "#b5bd68",
-    "name": "base16-tomorrow-night-256",
     "purple": "#b294bb",
     "red": "#cc6666",
     "white": "#c5c8c6",

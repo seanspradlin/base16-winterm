@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Mexico Light 256",
     "background": "#f8f8f8",
     "black": "#f8f8f8",
     "blue": "#7cafc2",
@@ -13,7 +14,6 @@
     "cyan": "#4b8093",
     "foreground": "#383838",
     "green": "#538947",
-    "name": "base16-mexico-light-256",
     "purple": "#96609e",
     "red": "#ab4642",
     "white": "#383838",

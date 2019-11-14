@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Mellow Purple 256",
     "background": "#1e0528",
     "black": "#1e0528",
     "blue": "#550068",
@@ -13,7 +14,6 @@
     "cyan": "#b900b1",
     "foreground": "#ffeeff",
     "green": "#05cb0d",
-    "name": "base16-mellow-purple-256",
     "purple": "#8991bb",
     "red": "#00d9e9",
     "white": "#ffeeff",

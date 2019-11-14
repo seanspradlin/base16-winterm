@@ -1,4 +1,5 @@
 {
+    "name": "Base16 OneDark",
     "background": "#282c34",
     "black": "#282c34",
     "blue": "#61afef",
@@ -13,7 +14,6 @@
     "cyan": "#56b6c2",
     "foreground": "#abb2bf",
     "green": "#98c379",
-    "name": "base16-onedark",
     "purple": "#c678dd",
     "red": "#e06c75",
     "white": "#abb2bf",

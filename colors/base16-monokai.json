@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Monokai",
     "background": "#272822",
     "black": "#272822",
     "blue": "#66d9ef",
@@ -13,7 +14,6 @@
     "cyan": "#a1efe4",
     "foreground": "#f8f8f2",
     "green": "#a6e22e",
-    "name": "base16-monokai",
     "purple": "#ae81ff",
     "red": "#f92672",
     "white": "#f8f8f2",

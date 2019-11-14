@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Rebecca",
     "background": "#292a44",
     "black": "#292a44",
     "blue": "#2de0a7",
@@ -13,7 +14,6 @@
     "cyan": "#8eaee0",
     "foreground": "#f1eff8",
     "green": "#6dfedf",
-    "name": "base16-rebecca",
     "purple": "#7aa5ff",
     "red": "#a0a0c5",
     "white": "#f1eff8",

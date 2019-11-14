@@ -1,4 +1,5 @@
 {
+    "name": "Base16 IR Black",
     "background": "#000000",
     "black": "#000000",
     "blue": "#96cbfe",
@@ -13,7 +14,6 @@
     "cyan": "#c6c5fe",
     "foreground": "#b5b3aa",
     "green": "#a8ff60",
-    "name": "base16-irblack",
     "purple": "#ff73fd",
     "red": "#ff6c60",
     "white": "#b5b3aa",

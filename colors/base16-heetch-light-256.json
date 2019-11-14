@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Heetch Light 256",
     "background": "#feffff",
     "black": "#feffff",
     "blue": "#47f9f5",
@@ -13,7 +14,6 @@
     "cyan": "#c33678",
     "foreground": "#5a496e",
     "green": "#f80059",
-    "name": "base16-heetch-light-256",
     "purple": "#bd0152",
     "red": "#27d9d5",
     "white": "#5a496e",

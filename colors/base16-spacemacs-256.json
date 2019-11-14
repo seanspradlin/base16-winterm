@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Spacemacs 256",
     "background": "#1f2022",
     "black": "#1f2022",
     "blue": "#4f97d7",
@@ -13,7 +14,6 @@
     "cyan": "#2d9574",
     "foreground": "#a3a3a3",
     "green": "#67b11d",
-    "name": "base16-spacemacs-256",
     "purple": "#a31db1",
     "red": "#f2241f",
     "white": "#a3a3a3",

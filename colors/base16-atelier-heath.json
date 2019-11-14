@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Atelier Heath",
     "background": "#1b181b",
     "black": "#1b181b",
     "blue": "#516aec",
@@ -13,7 +14,6 @@
     "cyan": "#159393",
     "foreground": "#ab9bab",
     "green": "#918b3b",
-    "name": "base16-atelier-heath",
     "purple": "#7b59c0",
     "red": "#ca402b",
     "white": "#ab9bab",

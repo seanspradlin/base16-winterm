@@ -1,4 +1,5 @@
 {
+    "name": "Base16 PaperColor Light 256",
     "background": "#eeeeee",
     "black": "#eeeeee",
     "blue": "#d75f00",
@@ -13,7 +14,6 @@
     "cyan": "#d75f00",
     "foreground": "#878787",
     "green": "#8700af",
-    "name": "base16-papercolor-light-256",
     "purple": "#005faf",
     "red": "#bcbcbc",
     "white": "#878787",

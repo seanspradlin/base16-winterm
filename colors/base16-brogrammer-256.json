@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Brogrammer 256",
     "background": "#1f1f1f",
     "black": "#1f1f1f",
     "blue": "#5350b9",
@@ -13,7 +14,6 @@
     "cyan": "#1081d6",
     "foreground": "#4e5ab7",
     "green": "#f3bd09",
-    "name": "base16-brogrammer-256",
     "purple": "#0f7ddb",
     "red": "#d6dbe5",
     "white": "#4e5ab7",

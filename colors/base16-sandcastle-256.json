@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Sandcastle 256",
     "background": "#282c34",
     "black": "#282c34",
     "blue": "#83a598",
@@ -13,7 +14,6 @@
     "cyan": "#83a598",
     "foreground": "#a89984",
     "green": "#528b8b",
-    "name": "base16-sandcastle-256",
     "purple": "#d75f5f",
     "red": "#83a598",
     "white": "#a89984",

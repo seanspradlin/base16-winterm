@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Porple 256",
     "background": "#292c36",
     "black": "#292c36",
     "blue": "#8485ce",
@@ -13,7 +14,6 @@
     "cyan": "#64878f",
     "foreground": "#d8d8d8",
     "green": "#95c76f",
-    "name": "base16-porple-256",
     "purple": "#b74989",
     "red": "#f84547",
     "white": "#d8d8d8",

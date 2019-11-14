@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Atelier Seaside Light",
     "background": "#f4fbf4",
     "black": "#f4fbf4",
     "blue": "#3d62f5",
@@ -13,7 +14,6 @@
     "cyan": "#1999b3",
     "foreground": "#5e6e5e",
     "green": "#29a329",
-    "name": "base16-atelier-seaside-light",
     "purple": "#ad2bee",
     "red": "#e6193c",
     "white": "#5e6e5e",

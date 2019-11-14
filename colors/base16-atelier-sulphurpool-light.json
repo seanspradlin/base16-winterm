@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Atelier Sulphurpool Light",
     "background": "#f5f7ff",
     "black": "#f5f7ff",
     "blue": "#3d8fd1",
@@ -13,7 +14,6 @@
     "cyan": "#22a2c9",
     "foreground": "#5e6687",
     "green": "#ac9739",
-    "name": "base16-atelier-sulphurpool-light",
     "purple": "#6679cc",
     "red": "#c94922",
     "white": "#5e6687",

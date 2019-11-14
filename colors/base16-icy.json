@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Icy Dark",
     "background": "#021012",
     "black": "#021012",
     "blue": "#00bcd4",
@@ -13,7 +14,6 @@
     "cyan": "#26c6da",
     "foreground": "#095b67",
     "green": "#4dd0e1",
-    "name": "base16-icy",
     "purple": "#00acc1",
     "red": "#16c1d9",
     "white": "#095b67",

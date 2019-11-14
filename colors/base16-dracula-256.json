@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Dracula 256",
     "background": "#282936",
     "black": "#282936",
     "blue": "#62d6e8",
@@ -13,7 +14,6 @@
     "cyan": "#a1efe4",
     "foreground": "#e9e9f4",
     "green": "#ebff87",
-    "name": "base16-dracula-256",
     "purple": "#b45bcf",
     "red": "#ea51b2",
     "white": "#e9e9f4",

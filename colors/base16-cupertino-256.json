@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Cupertino 256",
     "background": "#ffffff",
     "black": "#ffffff",
     "blue": "#0000ff",
@@ -13,7 +14,6 @@
     "cyan": "#318495",
     "foreground": "#404040",
     "green": "#007400",
-    "name": "base16-cupertino-256",
     "purple": "#a90d91",
     "red": "#c41a15",
     "white": "#404040",

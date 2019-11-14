@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Brewer",
     "background": "#0c0d0e",
     "black": "#0c0d0e",
     "blue": "#3182bd",
@@ -13,7 +14,6 @@
     "cyan": "#80b1d3",
     "foreground": "#b7b8b9",
     "green": "#31a354",
-    "name": "base16-brewer",
     "purple": "#756bb1",
     "red": "#e31a1c",
     "white": "#b7b8b9",

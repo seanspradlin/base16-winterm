@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Espresso 256",
     "background": "#2d2d2d",
     "black": "#2d2d2d",
     "blue": "#6c99bb",
@@ -13,7 +14,6 @@
     "cyan": "#bed6ff",
     "foreground": "#cccccc",
     "green": "#a5c261",
-    "name": "base16-espresso-256",
     "purple": "#d197d9",
     "red": "#d25252",
     "white": "#cccccc",

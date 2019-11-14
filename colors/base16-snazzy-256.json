@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Snazzy 256",
     "background": "#282a36",
     "black": "#282a36",
     "blue": "#57c7ff",
@@ -13,7 +14,6 @@
     "cyan": "#9aedfe",
     "foreground": "#e2e4e5",
     "green": "#5af78e",
-    "name": "base16-snazzy-256",
     "purple": "#ff6ac1",
     "red": "#ff5c57",
     "white": "#e2e4e5",

@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Atelier Lakeside 256",
     "background": "#161b1d",
     "black": "#161b1d",
     "blue": "#257fad",
@@ -13,7 +14,6 @@
     "cyan": "#2d8f6f",
     "foreground": "#7ea2b4",
     "green": "#568c3b",
-    "name": "base16-atelier-lakeside-256",
     "purple": "#6b6bb8",
     "red": "#d22d72",
     "white": "#7ea2b4",

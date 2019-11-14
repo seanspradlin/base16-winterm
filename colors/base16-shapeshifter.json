@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Shapeshifter",
     "background": "#f9f9f9",
     "black": "#f9f9f9",
     "blue": "#3b48e3",
@@ -13,7 +14,6 @@
     "cyan": "#23edda",
     "foreground": "#102015",
     "green": "#0ed839",
-    "name": "base16-shapeshifter",
     "purple": "#f996e2",
     "red": "#e92f2f",
     "white": "#102015",

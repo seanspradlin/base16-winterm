@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Atelier Plateau Light 256",
     "background": "#f4ecec",
     "black": "#f4ecec",
     "blue": "#7272ca",
@@ -13,7 +14,6 @@
     "cyan": "#5485b6",
     "foreground": "#585050",
     "green": "#4b8b8b",
-    "name": "base16-atelier-plateau-light-256",
     "purple": "#8464c4",
     "red": "#ca4949",
     "white": "#585050",

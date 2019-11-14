@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Atelier Savanna",
     "background": "#171c19",
     "black": "#171c19",
     "blue": "#478c90",
@@ -13,7 +14,6 @@
     "cyan": "#1c9aa0",
     "foreground": "#87928a",
     "green": "#489963",
-    "name": "base16-atelier-savanna",
     "purple": "#55859b",
     "red": "#b16139",
     "white": "#87928a",

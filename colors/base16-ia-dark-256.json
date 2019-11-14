@@ -1,4 +1,5 @@
 {
+    "name": "Base16 iA Dark 256",
     "background": "#1a1a1a",
     "black": "#1a1a1a",
     "blue": "#8eccdd",
@@ -13,7 +14,6 @@
     "cyan": "#7c9cae",
     "foreground": "#cccccc",
     "green": "#83a471",
-    "name": "base16-ia-dark-256",
     "purple": "#b98eb2",
     "red": "#d88568",
     "white": "#cccccc",

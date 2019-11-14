@@ -1,4 +1,5 @@
 {
+    "name": "Base16 PhD 256",
     "background": "#061229",
     "black": "#061229",
     "blue": "#5299bf",
@@ -13,7 +14,6 @@
     "cyan": "#72b9bf",
     "foreground": "#b8bbc2",
     "green": "#99bf52",
-    "name": "base16-phd-256",
     "purple": "#9989cc",
     "red": "#d07346",
     "white": "#b8bbc2",

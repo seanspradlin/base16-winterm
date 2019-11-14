@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Chalk 256",
     "background": "#151515",
     "black": "#151515",
     "blue": "#6fc2ef",
@@ -13,7 +14,6 @@
     "cyan": "#12cfc0",
     "foreground": "#d0d0d0",
     "green": "#acc267",
-    "name": "base16-chalk-256",
     "purple": "#e1a3ee",
     "red": "#fb9fb1",
     "white": "#d0d0d0",

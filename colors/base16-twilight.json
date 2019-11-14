@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Twilight",
     "background": "#1e1e1e",
     "black": "#1e1e1e",
     "blue": "#7587a6",
@@ -13,7 +14,6 @@
     "cyan": "#afc4db",
     "foreground": "#a7a7a7",
     "green": "#8f9d6a",
-    "name": "base16-twilight",
     "purple": "#9b859d",
     "red": "#cf6a4c",
     "white": "#a7a7a7",

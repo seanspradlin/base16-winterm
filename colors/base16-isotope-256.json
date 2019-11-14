@@ -1,4 +1,5 @@
 {
+    "name": "Base16 Isotope 256",
     "background": "#000000",
     "black": "#000000",
     "blue": "#0066ff",
@@ -13,7 +14,6 @@
     "cyan": "#00ffff",
     "foreground": "#d0d0d0",
     "green": "#33ff00",
-    "name": "base16-isotope-256",
     "purple": "#cc00ff",
     "red": "#ff0000",
     "white": "#d0d0d0",
